@@ -1,0 +1,1 @@
+final String USER_RECORD='users record';

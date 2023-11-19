@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71129992313",
+    "project_id": "voice-735ef",
+    "storage_bucket": "voice-735ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71129992313:android:097efb26919fe2249018a8",
+        "android_client_info": {
+          "package_name": "com.example.tasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepTD-ANqhh4ds6TsNJduAt59iOngEizI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71129992313:android:3cd39a7d5e842baf9018a8",
+        "android_client_info": {
+          "package_name": "com.example.tasks1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepTD-ANqhh4ds6TsNJduAt59iOngEizI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
